@@ -28,7 +28,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.sem.AppRot</mainClass>
+                            <mainClass>com.napier.sem.AppRoot</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
